@@ -1,7 +1,11 @@
 ### PROJECT REQUIREMENT
+
 PYTHON VERSION = 3.8
+
 easyocr==1.6.2
+
 matplotlib==3.6.2
+
 opencv-python-headless==4.5.4.60
 
 ### OUTPUT SCREENSHOT
